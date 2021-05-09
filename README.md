@@ -1,4 +1,4 @@
-# e-commerce-I-Challenge-2020
+# MacDonald's Mobile Application
 
 This project was done as the final project in the IChallenge Android Track at [Clicks Egypt](https://www.clicksegypt.net/).
 
